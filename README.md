@@ -4,19 +4,13 @@
 Este é um projeto para gerenciamento de usuários, desenvolvido com React. Ele inclui operações CRUD para usuários e upload de imagem de perfil através do consumo de uma [API](https://github.com/bernardotonin/crud-usuarios-backend) .
 
 ## Tecnologias Utilizadas
-React 19
-
-NextJS 15
-
-Shadcn/ui
-
-TailwindCSS
-
-Axios
-
-Tanstack Query
-
-Zod
+- React 19
+- NextJS 15
+- Shadcn/ui
+- TailwindCSS
+- Axios
+- Tanstack Query
+- Zod
 
 
 ## Clonando o repositório
