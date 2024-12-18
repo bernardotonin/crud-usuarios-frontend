@@ -39,23 +39,12 @@ Este é um projeto para gerenciamento de usuários, desenvolvido com React. Ele 
     ```
     npm install
     ```
-    
-    ou, se preferir usar o Yarn:
-    
-    ```
-    yarn
-    ```
+
     
 3.  Inicie o servidor de desenvolvimento:
     
     ```
     npm run dev
-    ```
-    
-    ou, com Yarn:
-    
-    ```
-    yarn dev
     ```
     
 4.  Configure o [back-end](https://github.com/bernardotonin/crud-usuarios-backend) do projeto.
